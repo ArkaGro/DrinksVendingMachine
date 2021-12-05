@@ -1,0 +1,144 @@
+﻿<Page
+    x:Class="Drinks_Vending_Machine.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Drinks_Vending_Machine"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="FloralWhite">
+        <TextBlock Text="Vending Machine"
+                   FontSize="50"
+                   HorizontalAlignment="Center"/>
+        <TextBlock x:Name="showChoice"
+                   FontStyle="Italic"
+                   FontSize="30"
+                   Margin="0,160,0,0"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Center"/>
+        <Button x:Name="drinkCup"
+                Click="BT_Click_Take"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Bottom">
+            <Image Source="Images/1.png"
+               Height="200"
+               Width="150">
+            </Image>
+        </Button>
+        <StackPanel 
+                    x:Name="coffeeList"
+                    Background="Tomato"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <Button x:Name="choice1"
+                    Click="BT_Click_Latte">
+                <Image Source="CoffeePic/1.png"
+                       Width="150"
+                       Height="200">
+                </Image>
+            </Button>
+            <Button x:Name="choice2"
+                    Click="BT_Click_Cappuchino">
+                <Image Source="CoffeePic/2.png"
+                       Width="150"
+                       Height="200">
+                </Image>
+            </Button>
+            <Button x:Name="choice3"
+                    Click="BT_Click_IrishCoffee">
+                <Image Source="CoffeePic/3.png"
+                       Width="150"
+                       Height="200">
+                </Image>
+            </Button>
+        </StackPanel>
+        <Button Content="ACCEPT"
+                    Width="200"
+                    Height="50"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Margin="0,400,0,0"
+                    Background="Red"
+                Click="BT_Click_Accept"/>
+        <ToggleButton Content="Big Cups"
+                      IsEnabled="True"
+                      Width="250"
+                      Height="50"
+                      Margin="260,280,0,0"
+                      Background="ForestGreen"
+                      HorizontalAlignment="Center"
+                      VerticalAlignment="Center"
+                      Click="Big_Cups_Click"/>
+        <ToggleButton Content="Little Cups"
+                      Width="255"
+                      Height="50"
+                      Margin="0,280,255,0"
+                      Background="ForestGreen"
+                      HorizontalAlignment="Center"
+                      VerticalAlignment="Center"
+                      Click="Little_Cups_Click"/>
+        <Button x:Name="CoinSlot" 
+                Height="150" Width="50" 
+                Margin="580,100,0,0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Click="PayMoney_Click">
+            <Image Source="SlotPic/CoinSlot.png"
+                   Height="150"
+                   Width="50"
+                   Margin="-10,-6,-10,-7">
+            </Image>
+        </Button>
+        <Button x:Name="TenShekels" 
+                Margin="580,300,0,0" 
+                Height="30"
+                Width="30"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Click="Ten_Shekels_Click">
+            <Image Source="CoinPics/10shekels.png"
+                   Height="30"
+                   Width="30" Margin="-10,-6,-10,-7">
+            </Image>
+        </Button>
+        <Button x:Name="FiveShekels" 
+                Margin="580,335,0,0" 
+                Height="30"
+                Width="30"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Click="Five_Shekels_Click">
+            <Image Source="CoinPics/5shekels.png"
+                   Height="30"
+                   Width="30" Margin="-10,-6,-10,-7">
+            </Image>
+        </Button>
+        <Button x:Name="OneShekel" 
+                Margin="580,370,0,0" 
+                Height="30"
+                Width="30"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Click="One_Shekel_Click">
+            <Image Source="CoinPics/1shekel.png"
+                   Height="30"
+                   Width="30" Margin="-10,-6,-10,-7">
+            </Image>
+        </Button>
+        <Button x:Name="FiftyAgorot" 
+                Margin="580,405,0,0" 
+                Height="30"
+                Width="30"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Click="Fifty_Agorot_Click">
+            <Image Source="CoinPics/50agorot.png"
+                   Height="30"
+                   Width="30" Margin="-10,-6,-10,-7">
+            </Image>
+        </Button>
+    </Grid>
+</Page>

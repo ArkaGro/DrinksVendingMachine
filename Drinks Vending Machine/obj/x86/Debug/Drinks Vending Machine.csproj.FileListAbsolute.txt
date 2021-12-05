@@ -1,0 +1,145 @@
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\App.xbf
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\MainPage.xbf
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.xr.xml
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.exe
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.pdb
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\resources.pri
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\AppxManifest.xml
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Core\Drinks Vending Machine.exe
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.build.appxrecipe
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\System.Runtime.dll
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.csprojAssemblyReference.cache
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.g.i.cs
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.g.cs
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.g.cs
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.xaml
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.xaml
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.xbf
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.xbf
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.csproj.CopyComplete
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.exe
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.pdb
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\priconfig.xml
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\resources.resfiles
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\pri.resfiles
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\qualifiers.txt
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\ArkadiyG\Desktop\Semester 2\OOC#\Works to submit\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\App.xbf
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\MainPage.xbf
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.xr.xml
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.exe
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.pdb
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\resources.pri
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\AppxManifest.xml
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Core\Drinks Vending Machine.exe
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.build.appxrecipe
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\System.Runtime.dll
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.csprojAssemblyReference.cache
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.g.i.cs
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.g.cs
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.g.cs
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.xaml
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.xaml
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.xbf
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.xbf
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.csproj.CopyComplete
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.exe
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.pdb
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\priconfig.xml
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\resources.resfiles
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\pri.resfiles
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\qualifiers.txt
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Images\cup1.png
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Images\cup10.png
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Images\cup2.png
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Images\cup3.png
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Images\cup4.png
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Images\cup5.png
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Images\cup6.png
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Images\cup7.png
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Images\cup8.png
+C:\Users\ArkadiyG\Desktop\Coffee Machine\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Images\cup9.png
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\App.xbf
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\MainPage.xbf
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.xr.xml
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.exe
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.pdb
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\resources.pri
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\AppxManifest.xml
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Core\Drinks Vending Machine.exe
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Drinks Vending Machine.build.appxrecipe
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\System.Runtime.dll
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.csprojAssemblyReference.cache
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.g.i.cs
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.g.cs
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.g.cs
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.xaml
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.xaml
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\App.xbf
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MainPage.xbf
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.csproj.CopyComplete
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.exe
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\Drinks Vending Machine.pdb
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\priconfig.xml
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\resources.resfiles
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\pri.resfiles
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\qualifiers.txt
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\ArkadiyG\Desktop\LinkedList\Drinks Vending Machine\Drinks Vending Machine\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
