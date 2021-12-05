@@ -1,1 +1,1 @@
-# Drinks-Vending-Machine
+# DrinksVendingMachine
